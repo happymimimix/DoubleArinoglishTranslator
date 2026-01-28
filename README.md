@@ -14,9 +14,8 @@ Here are the main differences:
    Arinoglish never uses any lowercase letters. It's always written in upper case. 
 
 2. Use arabic numbers to represent the 5 tones.
-   Unlike the original Chinese pinyin, Arinoglish doesn't use the typical →↗↝↘ symbols to represent tone. Instead, it just sticks an arabic number at the end of each syllable to show the tone, making it extremely easy to type on an american keyboard. 
-   The number 1 means →, 2 means ↗, 3 means ↝, 4 means ↘，and 5 is the silent tone.
+   Unlike the original Chinese pinyin, Arinoglish doesn't use the typical ⇒⇗⇕⇘ symbols to represent tone. Instead, it just sticks an arabic number at the end of each syllable to show the tone, making it extremely easy to type on an american keyboard. 
+   The number 1 means ⇒, 2 means ⇗, 3 means ⇕, 4 means ⇘，and 5 is the silent tone.
 
 3. The plus symbol. 
    Arinoglish loves to borrow phrases from other languages, especially English. To tell the difference between English phrases and Arinoglish's own native phrases, a '+' symbol is always added to the end of each borrowed phrase.
-
